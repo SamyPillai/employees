@@ -20,6 +20,7 @@ import com.example.employees.repository.EmployeesRepository;
 import com.example.employees.repository.EmployeesSpecializationRepository;
 import com.example.employees.service.EmployeesService;
 
+// This is the code to connect to ReactJS
 @CrossOrigin(origins="http://localhost:3000")
 @RestController
 @RequestMapping("/employees")
